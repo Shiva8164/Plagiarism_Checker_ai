@@ -2,7 +2,7 @@
 
 A **Plagiarism Checker** using **Machine Learning (LightGBM + PCA)** and **SBERT sentence embeddings** to detect similarity between two texts.
 
-![Plagiarism Checker](https://user-images.githubusercontent.com/Plagerized_image.png)
+![Plagiarism Checker]([(https://github.com/Shiva8164/Plagiarism_Checker_ai/blob/main/Plagerised_image.png)])
 
 ---
 
