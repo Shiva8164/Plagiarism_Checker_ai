@@ -23,7 +23,7 @@ A **Plagiarism Checker** using **Machine Learning (LightGBM + PCA)** and **SBERT
 | `Plagiarism_checker2.ipynb` | Uses **SBERT (`all-MiniLM-L6-v2`)** + PCA (768 → 100 components) for improved accuracy: **79% (Logistic Regression), 81% (LightGBM)**. |
 | `lightgbm_plagiarism_model.pkl` | Trained LightGBM model for fast plagiarism detection. |
 | `pca_model.pkl` | PCA model used to reduce SBERT embedding dimensions from **768 → 100**. |
-| `Streamlit_Plagiarism_check_file.py` | **Streamlit web app** for real-time plagiarism checking. |
+| `Plagiarism_check.py` | **Streamlit web app** for real-time plagiarism checking. |
 
 ---
 
